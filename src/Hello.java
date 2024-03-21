@@ -3,8 +3,10 @@ public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello world");
-		System.out.println("I am a new Java programer");
+		String s1 = "Hello world";
+		String s2 = "I am a new Java programer";
+		System.out.println(s1);
+		System.out.println(s2);
 	}
 
 }
